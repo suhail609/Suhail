@@ -4,4 +4,4 @@
 I develop software
 
 - ✨ interests: software development, economics, philosophy, technologies, buisiness
-- 🌐 website: www.suhail.work
+- 🌐 website: 🖥️(www.suhail.work)

@@ -3,5 +3,5 @@
 
 I develop software
 
-- 🌱 hobbies: software development, economics, philosophy, technologies, buisiness
+- ✨ interests: software development, economics, philosophy, technologies, buisiness
 - 🌐 website: www.suhail.work

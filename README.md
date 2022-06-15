@@ -2,5 +2,5 @@
 
 I develop softwares
 
-- ✨ interests: software development, economics, philosophy, technologies
+- ✨ interests: software development, economics, philosophy, technology
 - 🌐 website: [🖥️ terminal](www.suhail.work)
